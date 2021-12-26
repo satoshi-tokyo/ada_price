@@ -1,0 +1,12 @@
+{
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Args": [
+        "--ignore=E501",
+        "--max-line-length=150"
+    ],
+    "editor.formatOnSave": true,
+    "editor.suggestSelection": "recentlyUsed"
+}
